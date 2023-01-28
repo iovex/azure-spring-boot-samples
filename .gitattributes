@@ -1,3 +1,0 @@
-# Declare files that will always have LF line endings.
-*.tf text eol=lf
-*.sh text eol=lf
